@@ -45,9 +45,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
 </div>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alvanhan/count.svg?"  />
-</div>
-
 ###
